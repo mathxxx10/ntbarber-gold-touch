@@ -26,7 +26,7 @@ const BookingForm = () => {
 
     const message = `Olá! Vi o site da NTbarber e quero agendar meu horário!\n\n📋 *Nome:* ${name.trim()}\n📅 *Data:* ${formattedDate}\n⏰ *Horário:* ${time}`;
     const encoded = encodeURIComponent(message);
-    window.open(`https://wa.me/5534984016053?text=${encoded}`, "_blank");
+    window.open(`https://wa.me/5534991844644?text=${encoded}`, "_blank");
   };
 
   // Minimum date = today

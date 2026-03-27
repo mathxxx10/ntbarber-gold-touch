@@ -6,7 +6,7 @@ const Footer = () => (
         R. Maj. Gote, 338 - Centro, Patos de Minas - MG
       </p>
       <p className="font-body text-muted-foreground text-sm">
-        📞 (34) 98401-6053 &nbsp;|&nbsp; 🕐 Seg–Sáb 09h–19h &nbsp;|&nbsp; Dom Fechado
+        📞 (34) 9184-4644 &nbsp;|&nbsp; 🕐 Seg–Sáb 09h–19h &nbsp;|&nbsp; Dom Fechado
       </p>
       <p className="font-body text-muted-foreground text-xs mt-4">
         NTbarber — Barbearia Premium em Patos de Minas 💈
