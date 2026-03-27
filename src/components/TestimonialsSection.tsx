@@ -28,10 +28,10 @@ const TestimonialsSection = () => (
           <AnimatedSection key={i} delay={i * 0.08}>
             <div className="min-w-[280px] lg:min-w-0 snap-center bg-card border border-border rounded-lg p-6 flex flex-col border-t-2 border-t-primary">
               <span className="text-gold-DEFAULT text-3xl font-display leading-none mb-3">"</span>
-              <p className="font-body text-muted-foreground text-sm leading-relaxed flex-1 mb-4">{r}</p>
+              <p className="font-body text-muted-foreground text-sm leading-relaxed flex-1 mb-4">{r.text}</p>
               <div className="flex items-center gap-2">
                 <span className="text-sm">⭐⭐⭐⭐⭐</span>
-                <span className="font-body text-xs text-muted-foreground">— Cliente verificado</span>
+                <span className="font-body text-xs text-muted-foreground">— {r.name}</span>
               </div>
             </div>
           </AnimatedSection>
