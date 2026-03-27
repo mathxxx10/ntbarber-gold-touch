@@ -5,7 +5,7 @@ const services = [
   { icon: "✂️", name: "Corte Masculino", desc: "Técnica apurada para realçar seu estilo" },
   { icon: "🪒", name: "Barba", desc: "Modelagem e acabamento com navalha para um visual impecável" },
   { icon: "✂️🪒", name: "Corte + Barba", desc: "O combo completo para quem quer chegar no nível" },
-  { icon: "💆", name: "Relaxamento", desc: "Ritual de cuidado para couro cabeludo e barba" },
+  
   { icon: "👦", name: "Corte Infantil", desc: "Atendimento especial e cuidadoso para os pequenos" },
   { icon: "💈", name: "Hidratação", desc: "Tratamento premium para cabelo e barba saudáveis" },
 ];

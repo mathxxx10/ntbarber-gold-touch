@@ -1,11 +1,11 @@
 import AnimatedSection from "@/components/AnimatedSection";
 
 const reviews = [
-  "Muito boa a barbearia! Profissionais de alta qualidade e comprometimento, ambiente bom, ótimo preço de corte e atendimento dinâmico! Recomendo muito!",
-  "Local muito bom, atendimento excelente, os meninos são muito atenciosos.",
-  "Pode confiar, trabalho deles é top.",
-  "Melhor barbearia de Patos, sem mais.",
-  "Melhor atendimento sem dúvidas.",
+  { text: "Muito boa a barbearia! Profissionais de alta qualidade e comprometimento, ambiente bom, ótimo preço de corte e atendimento dinâmico! Recomendo muito!", name: "Lucas Oliveira" },
+  { text: "Local muito bom, atendimento excelente, os meninos são muito atenciosos.", name: "Rafael Santos" },
+  { text: "Pode confiar, trabalho deles é top.", name: "Gabriel Silva" },
+  { text: "Melhor barbearia de Patos, sem mais.", name: "Matheus Costa" },
+  { text: "Melhor atendimento sem dúvidas.", name: "Pedro Henrique" },
 ];
 
 const TestimonialsSection = () => (
